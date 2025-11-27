@@ -22,6 +22,7 @@ A collection of personal recipes organized by category.
 
 - [Creamy Chicken Soup](soups/creamy-chicken-soup.md)
 - [Marmalade White Bean Soup](soups/marmalade-white-bean-soup.md)
+- [Pozole Rojo de Pollo](soups/pozole-rojo-de-pollo.md)
 
 ### Sides
 
