@@ -29,6 +29,7 @@ A collection of personal recipes organized by category.
 
 - [Bok Choy Stir Fry](sides/bok-choy-stir-fry.md)
 - [Brussels with Maple Buffalo Sauce](sides/brussels.md)
+- [Chorizo Black Bean Dip](sides/chorizo-black-bean-dip.md)
 - [Spanish Stuffed Mushrooms](sides/spanish-stuffed-mushrooms.md)
 
 ### Baked Goods
