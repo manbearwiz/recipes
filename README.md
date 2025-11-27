@@ -35,6 +35,7 @@ A collection of personal recipes organized by category.
 ### Baked Goods
 
 - [Blueberry Muffins](baked-goods/blueberry-muffins.md)
+- [Sourdough Naan](baked-goods/sourdough-naan.md)
 
 ### Sauces
 
