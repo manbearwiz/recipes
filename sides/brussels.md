@@ -1,22 +1,27 @@
 # Roasted Brussels with Maple Buffalo Sauce
 
+*Attempt at replicating the tasty brussels appetizer from Houdini's Escape Gastropub, in Appleton, WI.*
+
 ## Ingredients
 
 ### Brussels
 
-* 1 pound Brussels sprouts, halved (stems and ragged outer leaves removed)  
-* 2-3 slices of bacon, cut into 1/2-inch by 1/4-inch lardons  
-* Feta, crumbled, for garnish
+- 1 pound Brussels sprouts, halved (stems and ragged outer leaves removed)  
+- 2-3 slices of bacon, cut into 1/2-inch by 1/4-inch lardons
 
 ### Sauce
 
-* 2 tbsp butter  
-* 1 small clove garlic, grated  
-* 4 Tbsp hot Sauce  
-* 1 Tbsp maple syrup  
-* 1 tsp tamari
+- 2 tbsp butter  
+- 1 small clove garlic, grated  
+- 4 tbsp hot sauce  
+- 1 tbsp maple syrup  
+- 1 tsp tamari
 
-## Directions
+### For Garnish
+
+- Feta, crumbled
+
+## Instructions
 
 1. Preheat oven to 450°F  
 2. Add bacon to cast-iron skillet over medium heat  

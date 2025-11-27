@@ -1,20 +1,22 @@
 # Pressure Cooker "Hot Beast" (Shredded Venison Sandwiches)
 
+*Originally from my dad's recipe, adapted for pressure cooker use and more whole ingredients.*
+
 ## Ingredients
 
-* 900g (2 lb) venison roast, trimmed and cut into 1–2" cubes
-* 2 tbsp beef tallow or oil
-* 1 large onion, coarsely chopped
-* 4 cloves garlic, crushed
-* 2 tbsp tomato paste
-* ~100ml dry red wine, vermouth, or beer
-* 350ml chicken broth (or water + 1 tsp bouillon)
-* 2 tbsp umami sauce (Worcestershire, fish sauce, soy, etc.)
-* 1 tbsp sweet Hungarian paprika
-* 2 bay leaves
-* Salt and pepper
-* 2 tbsp cornstarch + 2 tbsp cold water
-* Soft buns
+- 900g (2 lb) venison roast, trimmed and cut into 1–2" cubes
+- 2 tbsp beef tallow or oil
+- 1 large onion, coarsely chopped
+- 4 cloves garlic, crushed
+- 2 tbsp tomato paste
+- ~100ml dry red wine, vermouth, or beer
+- 350ml chicken broth (or water + 1 tsp bouillon)
+- 2 tbsp umami sauce (Worcestershire, fish sauce, soy, etc.)
+- 1 tbsp sweet Hungarian paprika
+- 2 bay leaves
+- Salt and pepper
+- 2 tbsp cornstarch + 2 tbsp cold water
+- Soft buns
 
 ## Instructions
 

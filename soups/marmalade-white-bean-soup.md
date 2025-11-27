@@ -4,23 +4,21 @@
 
 ## Ingredients
 
-### For the Soup
-
-* 1 lb dried navy beans, soaked in cold water for 24 hours and drained  
-* 6 slices smoked bacon  
-* 1 stalk celery, chopped  
-* 1 medium yellow onion, finely minced  
-* 3 cloves garlic, peeled and whole  
-* 1 stem fresh thyme  
-* 2 liters low-sodium chicken stock  
-* 1/2 stick unsalted butter  
-* 1/2 cup heavy cream  
-* Kosher salt and freshly ground black pepper, to taste
+- 1 lb dried navy beans, soaked in cold water for 24 hours and drained  
+- 6 slices smoked bacon  
+- 1 stalk celery, chopped  
+- 1 medium yellow onion, finely minced  
+- 3 cloves garlic, peeled and whole  
+- 1 stem fresh thyme  
+- 2 liters low-sodium chicken stock  
+- 1/2 stick unsalted butter  
+- 1/2 cup heavy cream  
+- Kosher salt and freshly ground black pepper, to taste
 
 ### For Garnish
 
-* 2 Tbsp thinly sliced fresh chives  
-* 1/2 Tbsp black truffle oil
+- 2 tbsp thinly sliced fresh chives  
+- 1/2 tbsp black truffle oil
 
 ## Instructions
 
@@ -35,6 +33,6 @@
 8. Stir in the butter and heavy cream until fully incorporated. Season with s\&p to taste.  
 9. Ladle the soup into warm bowls. Garnish with a drizzle of truffle oil, crispy bacon bits, and chives.
 
-## Wine Pairing
+## Notes
 
 An unoaked Chardonnay from the Burgundy region of France, such as a Chablis or Bourgogne Blanc, would complement the creamy texture and smoky flavors of the soup. The wine's acidity will cut through the richness of the dish, while its minerality will enhance the earthy notes from the beans and bacon.

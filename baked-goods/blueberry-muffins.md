@@ -4,26 +4,26 @@
 
 ### Batter
 
-* 1 ½ cup self-rising flour  
-  * 1 ½ cups all-purpose flour  
-  * ½ tsp salt  
-  * 2 tsp baking powder  
-* ¾ cup white sugar  
-* ⅓ cup vegetable oil  
-* 1 egg  
-* ⅓ cup milk, or more as needed  
-* 1 cup fresh blueberries
+- 1 ½ cup self-rising flour  
+  - 1 ½ cups all-purpose flour  
+  - ½ tsp salt  
+  - 2 tsp baking powder  
+- ¾ cup white sugar  
+- ⅓ cup vegetable oil  
+- 1 egg  
+- ⅓ cup milk, or more as needed  
+- 1 cup fresh blueberries
 
 ### Crumb Topping
 
-* 50g all-purpose flour  
-* 50g granulated sugar  
-* 50g packed brown sugar  
-* ½ stick (¼ cup) butter  
-* 1 ½ tsp ground cinnamon  
-* ½ tsp salt
+- 50g all-purpose flour  
+- 50g granulated sugar  
+- 50g packed brown sugar  
+- ½ stick (¼ cup) butter  
+- 1 ½ tsp ground cinnamon  
+- ½ tsp salt
 
-## Directions
+## Instructions
 
 1. Preheat the oven to 400F  
 2. Grease or line muffin pan  

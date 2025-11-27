@@ -25,7 +25,7 @@
 - 1 cup heavy cream (optional)
 - Shredded parmesan cheese, for serving (optional)
 
-## Directions
+## Instructions
 
 1. Remove meat from chicken carcass, pressure cook carcass 1hr, or boil 4hr
 2. If using beans,
