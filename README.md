@@ -17,6 +17,7 @@ A collection of personal recipes organized by category.
 - [Caribbean Beans & Rice](mains/caribean-beans-rice.md)
 - [Farro Risotto with Mushrooms and Asparagus](mains/farro-risotto-mushrooms-asparagus.md)
 - [Hot Beast (Shredded Venison)](mains/hot-beast.md)
+- [Red Beans and Rice](mains/red-beans-rice.md)
 - [Stuffed Zucchini](mains/stuffed-zucchini.md)
 
 ### Soups
